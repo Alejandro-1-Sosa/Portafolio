@@ -1,0 +1,19 @@
+/* Eliminar márgenes globales */
+body {
+    margin: 0;
+    padding: 0;
+}
+
+/* Quitar padding lateral de la navbar */
+header .navbar {
+    margin: 0;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+/* Quitar padding del container-fluid para que toque los bordes  */
+.navbar .container-fluid {
+    padding-left: 0;
+    padding-right: 0;
+}
+
