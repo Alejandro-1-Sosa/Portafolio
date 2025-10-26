@@ -29,3 +29,5 @@ background-color: #1CB698;
                
       </header>
         </div>
+
+        <nav class="navbar navbar-expand-xl bg-body-tertiary">
