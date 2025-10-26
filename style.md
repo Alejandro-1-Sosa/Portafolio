@@ -1,7 +1,7 @@
 :root {
     --primary-color: #6c63ff;
     --dark-bg: #121212;
-    --darker-bg: #0a0a0a;
+    --darker-bg: #0a0a0a;s
     --light-text: #f5f5f5;
     --gray-text: #aaaaaa;
     --card-bg: #1e1e1e;
@@ -30,4 +30,4 @@ background-color: #1CB698;
       </header>
         </div>
 
-        <nav class="navbar navbar-expand-xl bg-body-tertiary">
+        bg-body-tertiary
