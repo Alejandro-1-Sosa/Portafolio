@@ -592,7 +592,7 @@ footer .arriba{
         flex-direction: column;
     }
 }
-@media screen and (max-width: 980px) {
+@media screen and (max-width: 1200px) {
 
     /* Oculta el menú y configura posición lateral */
     nav ul {
