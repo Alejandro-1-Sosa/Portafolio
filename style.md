@@ -32,11 +32,18 @@ background-color: #1CB698;
 
         bg-body-tertiary
 
+ carousel-item active
+
+ width: 350px; height: 300px;  
+
+
 Check - List
-1 - Hacer que las imagenes tengan un tamaño más reducido en la parte de proyectos, y cambiar la sección de contacto por una letra más pequeña
-2 - Cambiar el pdf
-3 - Subir los demás proyectos
-4 - Revisar y Comprobar que todo funcione correctamente
-5 - Modificar el proyecto e-commerce, en las partes correspondientes 
-6 - Subirlo a LinKedIn y seguir aprendiendo
+1 - Hacer que las imagenes tengan un tamaño más reducido en la parte de los proyectos. 
+2 - Relacionado el objetivo anterior, modificar el texto que tiene cada proyecto, para que se vea mejor. (Agregarle un botón de demo que abra un enlace al proyecto y un icono de github que habra el código utilizado). 
+3 - Cambiar la sección de contacto por una letra más pequeña.✅
+4 - Cambiar el pdf
+5 - Subir los demás proyectos
+6 - Revisar y Comprobar que todo funcione correctamente
+7 - Modificar el proyecto e-commerce, en las partes correspondientes 
+8 - Subirlo a LinKedIn y seguir aprendiendo
 
