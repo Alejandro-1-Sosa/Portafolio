@@ -321,6 +321,11 @@ section {
 /* Secciones de Educación y Experiencia */
 #educación, #experiencia {
     background-color: #121212;
+    color: #fff;
+}
+
+.gratitude {
+    color: #1cb698;
 }
 
 /* Línea de Tiempo */
