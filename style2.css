@@ -32,7 +32,7 @@ header {
     background-color: rgba(10, 10, 10, 0.9);
     backdrop-filter: blur(10px);
     z-index: 100;
-    border-bottom: 1px solid var(--border-color);
+    border-bottom: 1px solid #2d2d2d;
 }
 
 #nav {
@@ -51,7 +51,7 @@ header {
 }
 
 .logo span {
-    color: var(--primary-color);
+    color: #6c63ff;
 }
 
 .nav-links {
@@ -72,12 +72,12 @@ header {
     left: 0;
     width: 0;
     height: 2px;
-    background-color: var(--primary-color);
+    background-color: #6c63ff;
     transition: var(--transition);
 }
 
 .nav-links a:hover {
-    color: var(--primary-color);
+    color: #6c63ff;
 }
 
 .nav-links a:hover:after {
@@ -106,12 +106,17 @@ section {
     transform: translateX(-50%);
     width: 80px;
     height: 3px;
-    background-color: var(--primary-color);
+    background-color: #6c63ff;
+}
+
+#btn {
+    background-color: #6c63ff;
+    color: #f5f5f5;
 }
 
 .btn {
    display: inline-block;
-    background-color: var(--primary-color);
+    background-color: #6c63ff;
     color: #fff;
     padding: .8rem 1.5rem;
     border-radius: 5px;
@@ -152,7 +157,7 @@ section {
 
 .hero-text h2 {
     font-size: 1.5rem;
-    color: var(--primary-color);
+    color: #6c63ff;
     margin-bottom: 1.5rem;
     font-weight: 600;
 }
@@ -165,7 +170,7 @@ section {
 }
 
 .sobremi {
-    background-color: var(--primary-color);
+    background-color: #6c63ff;
 } 
 
 .sobremi {
@@ -336,7 +341,9 @@ section {
     z-index: 1;
 }
 
-
+h4, p {
+    color: #f5f5f5;
+}
 
 
 
