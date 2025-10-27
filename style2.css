@@ -1,7 +1,8 @@
+/* Reseteo General y Configuraciones Base */
 * {
     padding: 0;
     margin: 0;
-    box-sizing: border-box;
+    box-sizing: border-box; /* Incluye padding y border dentro del ancho total */
 }
 
 html {
