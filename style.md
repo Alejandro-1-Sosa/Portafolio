@@ -34,6 +34,8 @@ background-color: #1CB698;
 
  carousel-item active
 
+ object-fit: cover;  /* Evita distorsión */
+
  width: 350px; height: 300px;  
 
 

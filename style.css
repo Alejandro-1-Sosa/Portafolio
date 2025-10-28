@@ -426,10 +426,17 @@ p {
 .carousel-item img.d-block.w-100 {
     border-radius: 10px;
     max-width: 100%;
-    object-fit: cover;  /* Evita distorsión */
+    object-fit: contain;
     display: block;
     margin: 0 auto; /* Centra horizontalmente */
 }
+
+/* Modifica el tamaño de las imagenes*/
+.carousel-item img {
+    width: 300px;
+    height: 250px;
+}
+
 
 /* Botones de Control */
 .carousel-control-prev-icon,
