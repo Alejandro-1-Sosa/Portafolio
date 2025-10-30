@@ -39,6 +39,11 @@ background-color: #1CB698;
  width: 350px; height: 300px;  
 
 
+Icono y enlaces para github
+<a href="#">Código<i class="bi bi-github"></i></a>
+
+
+
 Check - List
 1 - Hacer que las imagenes tengan un tamaño más reducido en la parte de los proyectos. 
 2 - Relacionado el objetivo anterior, modificar el texto que tiene cada proyecto, para que se vea mejor. (Agregarle un botón de demo que abra un enlace al proyecto y un icono de github que habra el código utilizado). 
