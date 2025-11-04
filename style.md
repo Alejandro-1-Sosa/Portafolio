@@ -36,7 +36,28 @@ background-color: #1CB698;
 
  object-fit: cover;  /* Evita distorsión */
 
- width: 350px; height: 300px;  
+ width: 350px; height: 300px;
+
+ Codigo de JavaScript , para el menu desplegable
+let menuVisible = false;
+// Función que oculta o muestra el menu
+function mostrarOcultarMenu(){
+    if(menuVisible){
+        document.getElementById("nav").classList = "";
+        menuVisible = false;
+    }else{
+        document.getElementById("nav").classList = "responsive";
+        menuVisible = true;
+    }
+}
+
+function seleccionar(){
+    //Oculto el menu una vez que selecciono una opcion
+    document.getElementById("nav").classList = "";
+    menuVisible = false;
+}
+
+
 
 
 Icono y enlaces para github

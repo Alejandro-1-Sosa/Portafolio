@@ -529,6 +529,41 @@ footer .arriba {
     font-size: 18px;
 }
 
+/* --- Ajuste para vista vertical (portrait) --- */
+@media screen and (orientation: portrait) {
+    .hero-content {
+        flex-direction: column; /* Coloca el texto arriba y la imagen abajo */
+        text-align: center;
+        gap: 2rem;
+    }
+
+    .hero-image {
+        justify-content: center; /* Centra la imagen horizontalmente */
+    }
+
+    .hero-image img {
+        width: 250px; /* Ajusta el tamaño de la imagen para pantallas verticales */
+        height: 250px;
+    }
+
+    .hero-text h1 {
+        font-size: 2.2rem;
+    }
+
+    .hero-text h2 {
+        font-size: 1.2rem;
+    }
+
+    .hero-text p {
+        font-size: 1rem;
+        max-width: 90%;
+        margin: 0 auto;
+    }
+
+
+    
+}
+
 
 
 
