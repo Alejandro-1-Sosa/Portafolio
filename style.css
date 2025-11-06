@@ -536,7 +536,7 @@ footer .arriba {
         text-align: center;
         gap: 2rem;
     }
-
+    
     .hero-image {
         justify-content: center; /* Centra la imagen horizontalmente */
     }
@@ -559,9 +559,10 @@ footer .arriba {
         max-width: 90%;
         margin: 0 auto;
     }
-
-
     
+    .sobremi .fila {
+        display: block;
+    }
 }
 
 
