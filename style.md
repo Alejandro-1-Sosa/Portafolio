@@ -11,6 +11,8 @@
 
 background-color: #1CB698;
 
+Apasionado por crear experiencia web únicas y funcionales. Siempre buscando aprender nuevas tecnologías y mejorar habilidades.
+
    <div class="contenedor-header">
       <header>    
         <nav id="nav">
