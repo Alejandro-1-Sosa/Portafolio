@@ -13,6 +13,8 @@ background-color: #1CB698;
 
 Apasionado por crear experiencia web únicas y funcionales. Siempre buscando aprender nuevas tecnologías y mejorar habilidades.
 
+Agradezco a todo el equipo de El Clon, en particular a las encargadas, al entrenador que me brindó la formación inicial y a mis compañeros, por el acompañamiento, la confianza y los aprendizajes compartidos durante mi experiencia laboral.
+
    <div class="contenedor-header">
       <header>    
         <nav id="nav">
